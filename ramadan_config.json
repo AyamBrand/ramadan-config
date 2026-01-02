@@ -1,0 +1,11 @@
+{
+  "country": "MY",
+  "ramadan_start": "2026-02-17",
+  "message_template": "Ramadan bermula dalam {{days}} hari",
+  "zikr": [
+    "اللهم بلغنا رمضان",
+    "استغفر الله العظيم",
+    "سبحان الله وبحمده",
+    "اللهم أعني على ذكرك"
+  ]
+}
